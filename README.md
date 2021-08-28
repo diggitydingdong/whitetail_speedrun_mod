@@ -7,3 +7,7 @@ Speedrunning mod for The Whitetail Incident.
 3. Run/restart the game.
 
 That should be it. On loading into the game, you begin with 100 stored ammo. Also, text should automatically skip through (no mashing required).
+
+# Features
+- Replicates the Save Storage bug by loading the user in with 100 ammo from the start.
+- Automatically forwards text.
